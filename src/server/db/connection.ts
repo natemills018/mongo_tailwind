@@ -9,3 +9,13 @@ export const client = new MongoClient(config.mongo.url, {
     },
 });
 client.connect();
+
+
+
+
+
+
+
+
+
+// Planning  to redo-this app
